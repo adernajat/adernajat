@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aderdour Najat</h1>
 <h3 align="center">Engineering Student in Data Science, Big Data, & AI at ENSIASD</h3>
 
-- 👨‍💻 All of my projects are available at [test](test)
-
 - 📫 How to reach me **aderdour.najat1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
